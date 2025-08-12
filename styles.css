@@ -22,4 +22,20 @@
   --h3-font-size: 1.125rem;
   --normal-font-size: .938rem;
   --small-font-size: .813rem;
+
+  /*========== Font weight ==========*/
+  --font-semi-bold: 600;
+  --font-bold: 700;
+
+  /*========== Margenes ==========*/
+  --mb-1: .5rem;
+  --mb-2: 1rem;
+  --mb-3: 1.5rem;
+  --mb-4: 2rem;
+  --mb-5: 2.5rem;
+  --mb-6: 3rem;
+  /*========== z index ==========*/
+
+  --z-tooltip: 10;
+  --z-fixed: 100;
 }
