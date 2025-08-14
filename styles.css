@@ -49,3 +49,12 @@
     --small-font-size: .875rem;
   }
 }
+
+/*========== BASE ==========*/
+*,::before,::after{
+  box-sizing: border-box;
+}
+
+html{
+  scroll-behavior: smooth;
+}
