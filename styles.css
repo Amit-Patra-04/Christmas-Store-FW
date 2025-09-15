@@ -476,3 +476,20 @@ img{
 .footer__social:hover{
   color: var(--first-color);
 }
+
+.footer__copy{
+  text-align: center;
+  font-size: var(--small-font-size);
+  color: var(--text-color-light);
+  margin-top: 4rem;
+}
+
+.footer__copy i{
+  color: red;
+}
+
+.footer__copy a{
+  color: var(--text-color);
+  font-weight: var(--font-bold);
+  text-decoration: none;
+}
