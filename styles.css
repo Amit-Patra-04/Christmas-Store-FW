@@ -493,3 +493,13 @@ img{
   font-weight: var(--font-bold);
   text-decoration: none;
 }
+
+/*========== MEDIA QUERIES ==========*/
+
+@media screen and (max-width: 359px){
+  .home__img,
+  .share__img,
+  .send__img{
+    width: 100%;
+  }
+}
